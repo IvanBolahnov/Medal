@@ -1,0 +1,17 @@
+@media (max-width: 340px) {
+  .input {
+    width: 100%;
+    flex-direction: column;
+  }
+
+  .input__form {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+
+  .input__get-solution {
+    width: 100%;
+
+  }
+}
